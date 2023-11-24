@@ -13,7 +13,7 @@ TaskManager 3000 is a small-scale office productivity tool designed to streamlin
     - Backend Framework: Spring Boot
     - Database: PostgreSQL or MySQL
   - If you prefer **C#**:
-    - Backend Framework: .NET Core
+    - Backend Framework: [.NET Core](https://dotnet.microsoft.com/en-us/download)
     - Database: PostgreSQL, Microsoft SQL Server or MySQL
   - If you prefer **Python**:
     - Backend Framework: Django or Flask
