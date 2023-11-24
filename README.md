@@ -102,6 +102,12 @@ Follow these instructions to set up the TaskManager 3000 project locally.
 
 Visit `http://localhost:3000` in your browser to access TaskManager 3000.
 
+## Submission Guidelines
+
+- Create a public GitHub repository for the project.
+- Include a detailed README.md with instructions, project structure, and any additional information.
+- Use Git for version control, and make frequent, meaningful commits.
+
 ## Contribution Guidelines
 
 - Fork the repository.
